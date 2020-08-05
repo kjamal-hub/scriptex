@@ -1,0 +1,14 @@
+[device]
+wifi.scan-rand-mac-address=no
+
+[ifupdown]
+managed=false
+
+[connection]
+wifi.powersave=0
+
+[main]
+plugins=keyfile
+
+[keyfile]
+unmanaged-devices=mac:"your adapter's mac address" [without " "]
