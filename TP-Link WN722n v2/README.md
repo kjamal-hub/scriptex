@@ -16,9 +16,9 @@ TP-link wn722n has realtek rtl8188eu drivers that are not compatible for monitor
     i.  Type in "iwconfig"
     ii. Yours should look like 'wlan-monitor-1.png'.
 
-4.  See whether your adapter is WORKING in in monitor mode or not
-    i.  Type commands given in "airmon kill.png" then "airo-dump.png"
-    ii. You will then be able to see interfaces around you linke "airo-dump-1.png"
+4.  See whether your adapter is working in in monitor mode or not
+    -  Type commands given in "airmon kill.png" then "airo-dump.png"
+    -  You will then be able to see interfaces around you linke "airo-dump-1.png"
     
 5.  Update Your CRONTAB [VERY IMPORTANT]
     i.  Open crontab by typing "crontab -e"
