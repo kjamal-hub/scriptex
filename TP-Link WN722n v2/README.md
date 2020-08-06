@@ -23,7 +23,7 @@ TP-link wn722n has realtek rtl8188eu drivers that are not compatible for monitor
     -   You will then be able to see interfaces around you linke "airo-dump-1.png"
     
 5.  Update Your CRONTAB [VERY IMPORTANT]
-    -   Open crontab by typing crontab -e"
+    -   Open crontab by typing ""crontab -e"
     -   Add the last two lines you see in ![](crontab.png) to your crontab (you will find those command in main.txt){there are 1 tab diff. not 1 space between them}.
     -   Save with ctrl+o, then exit with ctrl+x.
     
