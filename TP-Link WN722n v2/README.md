@@ -33,7 +33,7 @@ TP-link wn722n has realtek rtl8188eu drivers that are not compatible for monitor
     -   Open terminal and login as 'su' by typing command "sudo su".
     -   Type "iwconfig" and check that your adapter is in auto mode.
     -   Copy "m.sh" file to Desktop as you will need that.
-    -   Open Terminal on Desktop as you see in ![](desktop-1.png). S-ee ![](m.sh-text.png)
+    -   Open Terminal on Desktop as you see in ![](desktop-1.png). See ![](m.sh-text.png)
     -   Type "sudo bash ./m.sh" like ![](bash-1.png)
    
 8. HOOORAY!!! 
