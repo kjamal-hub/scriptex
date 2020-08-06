@@ -1,4 +1,4 @@
-# Setup for TP-Link wn722n v2 for Pen-Testing
+# Setup for TP-Link wn722n v2 for Pen-Testing :smiley:
 
 ![](https://static.tp-link.com/res/images/products/large/TL-WN722N-01.jpg)
 
