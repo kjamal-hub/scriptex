@@ -1,3 +1,3 @@
 # OpenCV-Projects
 
-+ In this Folder all my projects related to OpenCV are strored. :Smiley:
++ In this Folder all my projects related to OpenCV are strored. :smiley:
