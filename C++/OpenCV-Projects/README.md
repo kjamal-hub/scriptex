@@ -9,4 +9,6 @@
 
 3. [img_load.cpp](https://github.com/kjamal-hub/scriptex/blob/master/C%2B%2B/OpenCV-Projects/img_load.cpp) is a script that will open provided [Need.jpg](https://github.com/kjamal-hub/scriptex/blob/master/C%2B%2B/OpenCV-Projects/Need.jpg) in Grayscale and Colored version side by side with a resolution of 640x480 each.
 	- You can change most of the things in here i.e. image, resolution, ratio, etc.
-	- Have Fun.:smile:
+
+4. [addimage.cpp](https://github.com/kjamal-hub/scriptex/blob/master/C%2B%2B/OpenCV-Projects/addimage.cpp) is a complex yet simlpe script that lets you to save image that you took to your computer in addition to detecting your face. Your image is saved where this `addimage.cpp` file is present.
+ 	- Have Fun.:smile:
