@@ -11,4 +11,10 @@
 	- You can change most of the things in here i.e. image, resolution, ratio, etc.
 
 4. [addimage.cpp](https://github.com/kjamal-hub/scriptex/blob/master/C%2B%2B/OpenCV-Projects/addimage.cpp) is a complex yet simlpe script that lets you to save image that you took to your computer in addition to detecting your face. Your image is saved where this `addimage.cpp` file is present.
- 	- Have Fun.:smile:
+
+	- You can change the name of your saved image just make changes in the 56th line. 
+	>imwrite("test.jpg", save_img);
+
+**Have Fun** :smile:
+ 	
+
