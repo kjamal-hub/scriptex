@@ -10,7 +10,7 @@ using namespace std;
 int main() {
     Mat large;
 
-    large = imread("/Users/kashifjamal/Desktop/clion/Text2.PNG");
+    large = imread("**Full Path** for image");
 
     Mat rgb;
     pyrDown(large, rgb);
