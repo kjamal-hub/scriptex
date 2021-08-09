@@ -19,6 +19,8 @@
     
 	> imwrite("nameanything.jpg", save_img);
 
+5. [text_detect](https://github.com/kjamal-hub/scriptex/blob/master/C%2B%2B/OpenCV-Projects/text_detect.cpp) is a small script but it gets the job done for detecting text in an image file.
+
 **Have Fun** :smile:
  	
 
