@@ -53,5 +53,3 @@ int main() {
     waitKey();
     return 0;
 }
-
-
